@@ -11,7 +11,7 @@
 using namespace std;
 
 int main() {
-    // write debug tests as you implement each method here
+    cout << "Your project is ready to go!" << endl;
 
     return 0;
 }
