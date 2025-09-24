@@ -43,4 +43,4 @@ equivalent program is called `Activity Monitor` and on Ubuntu, `System Monitor`.
 
 ## Project Instructions
 
-Once you can build and run the starter code, you can now actually start the project. You can find the project description [here](PUT LINK TO PDF HERE).
+Once you can build and run the starter code, you can now actually start the project. You can find the project description in  [Sequence.pdf](Sequence.pdf).
